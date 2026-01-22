@@ -14,5 +14,5 @@ Escreve o valor exato do resultado das funções trigonométricas.
 ### Produto Escalar de Vetores com Duas Dimensões (`prod_escalar_2d.py`)
 Calcula o produto escalar de dois vetores no plano.
 
-### Produto Escalar de Outros Vetores
+### Produto Escalar de Outros Vetores (`prod_escalar.py`)
 Calcula o produto escalar de dois vetores quaisquer (desde que tenham o mesmo número de dimensões)

@@ -11,7 +11,7 @@ Converte um ângulo em graus para um em radianos, e vice-versa.
 Escreve o valor exato do resultado das funções trigonométricas.
 
 ## Vetores
-### Produto Escalar de Vetores com Duas Dimensões (`prod_escalar_2d.py`)
+### Produto Escalar de Vetores no Plano (`prod_escalar_2d.py`)
 Calcula o produto escalar de dois vetores no plano.
 
 ### Produto Escalar de Outros Vetores (`prod_escalar.py`)

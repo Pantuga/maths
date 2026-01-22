@@ -1,5 +1,5 @@
 print("=== Produto Escalar ===")
-print("Syntaxe: (a, b, ...)")
+print("Sintaxe: (a, b, ...)")
 
 try:
     u = tuple(eval(input("u = ")))
